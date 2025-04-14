@@ -13,7 +13,7 @@ x = 0
 while x <= 5:
     num=int(input("informe o primeiro numero"))
     nota = nota+num
-    nota += 1
+    x += 1
 media=nota/5
 print(media)
 
