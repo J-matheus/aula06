@@ -17,7 +17,7 @@
 
 nota = 0
 x = 0
-alunos = int (input("informe o nome do aluno: "))
+alunos = int (input("informe a quantidade de aluno: "))
 while x <= alunos:
     num=int(input("informe a nota: "))
     nota = nota+num
